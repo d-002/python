@@ -1,0 +1,14 @@
+<svg version="1.1" width="454" height="21" viewBox="0 -1 454 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <radialGradient id="grad_1" cx="0.0641" cy="0.3392" r="1.21667">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="1"/>
+    </radialGradient>
+    <radialGradient id="grad_2" cx="0.0348" cy="0.3107" r="1.25476">
+      <stop offset="0" stop-color="#666666" stop-opacity="1"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.8765910547226667" fill="url(#grad_1)" stroke="url(#grad_2)" stroke-width="7" d="M 85 185 L 402 185 L 402 206 L 85 206 L 85 185 Z " transform="matrix(1.4011437892913818, 0, 0, 0.6992679834365845, -113.5, -126.35)"/>
+</svg>

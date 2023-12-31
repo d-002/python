@@ -1,0 +1,82 @@
+{
+    "Scar": {
+        "damage": 15,
+        "speed": 1000,
+        "maxdist": 400,
+        "multishot": 1,
+        "precision": 2,
+        "cooldown": 0.3,
+        "ammo": 25,
+        "ammo cooldown": 1
+    },
+    "M60": {
+        "damage": 10,
+        "speed": 1000,
+        "maxdist": 500,
+        "multishot": 1,
+        "precision": 3,
+        "cooldown": 0.2,
+        "ammo": 30,
+        "ammo cooldown": 2
+    },
+    "AR9": {
+        "damage": 20,
+        "speed": 1000,
+        "maxdist": 600,
+        "multishot": 1,
+        "precision": 2,
+        "cooldown": 0.2,
+        "ammo": 30,
+        "ammo cooldown": 1
+    },
+    "Vita": {
+        "damage": 65,
+        "speed": 1000,
+        "maxdist": 800,
+        "multishot": 1,
+        "precision": 0,
+        "cooldown": 1.5,
+        "ammo": 5,
+        "ammo cooldown": 1
+    },
+    "Weatie": {
+        "damage": 15,
+        "speed": 1000,
+        "maxdist": 400,
+        "multishot": 5,
+        "precision": 1,
+        "cooldown": 0.4,
+        "ammo": 35,
+        "ammo cooldown": 1
+    },
+    "LAR": {
+        "damage": 25,
+        "speed": 1000,
+        "maxdist": 500,
+        "multishot": 1,
+        "precision": 2,
+        "cooldown": 0.3,
+        "ammo": 25,
+        "ammo cooldown": 1
+    },
+    "MAC-10": {
+        "damage": 15,
+        "speed": 1000,
+        "maxdist": 300,
+        "multishot": 1,
+        "precision": 4,
+        "cooldown": 0.05,
+        "ammo": 30,
+        "ammo cooldown": 1
+    },
+    "Shark": {
+        "damage": 15,
+        "speed": 1000,
+        "maxdist": 300,
+        "multishot": 1,
+        "precision": 0,
+        "cooldown": 0.2,
+        "ammo": 10,
+        "ammo cooldown": 1
+    }
+}

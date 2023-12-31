@@ -1,0 +1,84 @@
+Add items
+Get items upon mob death
+Images
+
+Add weapon selection and images
+
+Store weapons in a json file
+When blocked by wall, go forward more
+Better hiding mechanism
+Bug stuck when hide
+Optimise walls points finding (calculate before the loop)
+Deal with when no more points available
+Ai movement: simplify from every point, in creation order
+Movement V2 + check Elderbot wall algorithm
+Archive Elderbot
+Add Fearfulbot
+Elderbot avoids bullets
+Avoid deleting names in leaderboard
+New map
+Add another type of dumb bot
+Don't allow for refill button mashing
+Change shoot to include weapon delay
+Delay when changing cam holder
+Damage makes mob transparent
+Change invinc_delay and stuff
+Remove player.game_over
+Player username
+Leaderboard in kdr mode
+Restart button
+Particles
+Respawn, kdr
+Top and kdr modes
+Actual weapons stats
+Bullets stay in place for 0.5 seconds
+Spawn points
+Invincibility indicator
+Cursor line + icon
+Fix collide function with ai movement
+AI stops moving when refilling
+Take preshot angle into collision check for shooting
+Distance to shoot: 700px
+Camera transition
+Kills log
+Show usernames on top of enemies
+Names
+Ammo + regen ammo + display + per weapon
+Ammo for AI?
+Test ammo values
+Refill ammo button
+Invincibility after taking damage?
+No [:-1] in weapons
+Top, kills, remaining players
+Low health visuals
+Avoid trying to move out of bounds
+Don't flee if aimed entity has less health
+Damage animation if too much lost
+Follow killer
+Collision bugs if laggy
+At most 3 collisions
+Collisions
+Collision optimization, correction
+Hide if low hp
+Regen faster if not hit for a long time
+Bug aim at nothing
+Head towards the entity that last hit it
+Don't delete the bullets
+Better health bar
+Rotate half the angle for the second point
+When stuck, make sure to go to the start
+Stuck in corner
+If tried for too long, choose another path
+Change ai movement if too close
+Ai can move through walls
+Optimize rects for each line group to filter out the near ones
+Shoot only if len(goal ) < 2
+Goal: []
+Regen
+Ai movement
+Adjust angle if player is moving
+Ai aiming max distance
+Use masks
+Bullet max distance
+Cooldown marker
+hp bars
