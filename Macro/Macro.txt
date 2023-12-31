@@ -1,0 +1,36 @@
+Input zone to input an event (either mouse/key)
+Click (any mouse button) for a given time (block)
+Press (any key) for a given time (block)
+File managment
+
+Try listener. start() to see if not in a thread
+Press / release any mouse button (block)
+Press / release any key (block)
+Bug infinite next_in_stack loop
+
+Do not launch a block if already running
+Stop button + split sleep
+Sleep instead of wait
+X/Y scrolling
+Move the mouse (block)
+Reorganise Block.__init__
+Type text
+Blocks bank, destroy when dragged onto zone
+Delay (block)
+Elements are linked
+Handle correctly when a running stack is split
+Only draw elements that are visible
+Add a stack to the top of another stack
+Blocks can stack
+Check add stack to the bottom of a stack
+Masks instead of rects
+Better looking blocks
+Only polygons for the 3D border
+Blinking cursor
+Blocks can run
+Draw texts on self.surf, only keep classes
+Optimise by creating a surface in __init__
+Duplicated events
+Draw blocks depending on their Z index
+Blocks
+Events blocks (different color)
