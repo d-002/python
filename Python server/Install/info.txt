@@ -1,0 +1,4 @@
+When installing these files to a device A, type the content of install_recv.py into A (use the same name).
+Run the file, select an IP address.
+Then, to install the bigger installer, run install_full_installer.py from the computer B that already has the files.
+Once the installer has been sent to A, run full_installer.py from A, enter an IP address then run install_to_other_device.py from B. This should install everything on A, and clean up the installer files.

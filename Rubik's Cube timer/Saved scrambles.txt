@@ -1,0 +1,10 @@
+Yellow top, blue front
+#F2 L' U' F2 R U R F' D U' L2 D' L D' R' U F2 R' F' U2 - 15.237 second time
+#R2 F2 U' F2 U' L2 F2 D2 L' D' R2 F L F2 L' D F2 U' F2 R2 - 11.551 fourth time
+U' R2 U2 R2 B R2 B R2 U2 B R2 B' R' B2 F D F2 U' L2 B' - 13.117 white X-Cross
+D' L2 U L F' U' D' F' D U' L' R F' L' D F2 L' F L2 D - nice white cross
+D2 R2 F2 U R F2 R2 F' L2 F' R2 F D2 L2 U2 F L' F2 L' D' - white X-Cross
+F2 U L2 F2 D R' U F' R2 U2 F' U2 R' F L2 U F R' U' F2 - 2 moves white cross
+F R L' F' D' F' R2 F L' D F' D F2 L' R2 U2 F' D2 L2 F - very nice white cross and F2l
+U2 F' R2 F2 U L2 U2 F L F2 D' R' U2 D R F2 L2 U2 D L2 - nice white cross
+F R L2 D2 R2 U' F R' U' F' U R' D2 R2 U L' U R2 F R - white X-Cross
