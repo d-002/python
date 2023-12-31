@@ -1,0 +1,52 @@
+Make an area to make every possible piece to be placed without a hole
+Try to remove the reward for the low line difference
+Hole algorithm: don't lower the score for tetris holes
+Get the screen pixels + ai simulates a game
+Dodge holes
+Change keys and rotation system in Tetris Javascript
+Optimise calculations
+
+Shadow
+DAS
+Correct piece rotation
+Bug piece doesn't go down
+
+Check rotation system without AI
+Remove patterns list at the start for Tetris Calculator
+Rotation 180° AI
+AI class in another file
+Patterns of a certain size for rotation + Piece.size
+Delete the old file?
+Bug rotations
+Ai.play
+Change keys
+Hard drop
+Official score system
+Sounds
+Game B
+Text flicker when new level
+Reorganise ai.globals
+Use of hold for the AI
+Reduce the amount of holes
+Take next into account
+AI: new hole algorithm + tweak values
+Use the number of lines instead of the score
+Classify bonus and malus
+Split 1 and 2 block deep oles
+Mine to any hole (change the algorithm)
+AI: average / best of next scores
+Change top points detection
+Turn pieces correctly
+Impossible paths
+Calculate in a thread
+Problem with threads
+Turn both ways (AI)
+Normal Tetris game
+Game over screen
+Better lines animations
+Bug duplicated line
+Hold
+Next
+Piece movement
+Collisions
+Change levels
