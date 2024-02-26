@@ -114,10 +114,6 @@ Random small python projects I made
 - ### Dinosaur (05/2023)
   Chrome Dino game bot. Very good, can also flex.
 
-- ### Tetris AI (v2) (09/2023)
-  Way better tetris ai than *v1*, modern tetris-like, looks like jstris.  
-  ![image](https://github.com/d-002/python/assets/69427207/ac17f6c3-656c-41c0-89dc-0d7a73d45704)
-
 - ### Tictactoe2 (11/2023)
   Game and unbeatable (?) AI for a variant of Tic Tac Toe where you only place 3 pawns and move them following rules. My first time implementing minimax.
   ![image](https://github.com/d-002/python/assets/69427207/1e28b9a0-18c1-4754-ba2b-047de620a732)
